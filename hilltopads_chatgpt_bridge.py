@@ -12,8 +12,8 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
-VERIFY_FILENAME = "d9589fdcc7d1dc88c4ac.txt"
-VERIFY_CODE = "2e803effd8365992dfa7"
+VERIFY_FILENAME = ""
+VERIFY_CODE = "8081f16693262819eb20a5a22a45dacb911a4946"
 BASE_URL = "https://api.hilltopads.com/publisher"
 BLOCKED = ("igaming", "gambling", "casino", "betting", "sportsbook", "sportbook", "kladionica", "kazino", "popunder", "directlink", "adult", "sweepstakes")
 

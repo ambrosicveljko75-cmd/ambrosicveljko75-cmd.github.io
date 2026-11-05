@@ -3,9 +3,10 @@
   "repository": "ambrosicveljko75-cmd.github.io",
   "site": "https://ambrosicveljko75-cmd.github.io/",
   "verification": {
-    "file": "https://ambrosicveljko75-cmd.github.io/d9589fdcc7d1dc88c4ac.txt",
-    "code": "2e803effd8365992dfa7",
-    "status": "READY_FOR_VERIFICATION"
+    "method": "meta_tag",
+    "code": "8081f16693262819eb20a5a22a45dacb911a4946",
+    "status": "READY_FOR_VERIFICATION",
+    "dns_status": "NOT_USED_GITHUB_IO_ZONE_UNAVAILABLE"
   },
   "guardrails": {
     "mainstream_only": true,
