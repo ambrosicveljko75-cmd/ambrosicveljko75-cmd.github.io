@@ -1,0 +1,37 @@
+{
+  "updated_at_utc": "2026-11-05T08:16:05.025740+00:00",
+  "repository": "ambrosicveljko75-cmd.github.io",
+  "site": "https://ambrosicveljko75-cmd.github.io/",
+  "verification": {
+    "file": "https://ambrosicveljko75-cmd.github.io/d9589fdcc7d1dc88c4ac.txt",
+    "code": "2e803effd8365992dfa7",
+    "status": "READY_FOR_VERIFICATION"
+  },
+  "guardrails": {
+    "mainstream_only": true,
+    "blocked_keywords": [
+      "igaming",
+      "gambling",
+      "casino",
+      "betting",
+      "sportsbook",
+      "sportbook",
+      "kladionica",
+      "kazino",
+      "popunder",
+      "directlink",
+      "adult",
+      "sweepstakes"
+    ],
+    "advertising_scripts_embedded": false
+  },
+  "api": {
+    "status": "WAITING_FOR_API_KEY_SECRET",
+    "mode": "read_only",
+    "endpoints": [
+      "balance",
+      "inventory",
+      "listStats"
+    ]
+  }
+}

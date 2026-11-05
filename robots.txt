@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ambrosicveljko75-cmd.github.io/sitemap-index.xml

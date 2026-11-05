@@ -1,0 +1,116 @@
+{
+  "routes": [
+    {
+      "path": "/index.html",
+      "title": "The Legacy"
+    },
+    {
+      "path": "/work.html",
+      "title": "The Work"
+    },
+    {
+      "path": "/holy-trinity.html",
+      "title": "Church of Holy Trinity"
+    },
+    {
+      "path": "/krunic-palace.html",
+      "title": "Krunić Palata"
+    },
+    {
+      "path": "/archive.html",
+      "title": "The Complete Archive"
+    },
+    {
+      "path": "/archive-materials.html",
+      "title": "Material Science"
+    },
+    {
+      "path": "/archive-moisture.html",
+      "title": "Moisture Control"
+    },
+    {
+      "path": "/archive-pigments.html",
+      "title": "Pigment Hierarchy"
+    },
+    {
+      "path": "/knowledge.html",
+      "title": "The Knowledge"
+    },
+    {
+      "path": "/lesson-depth.html",
+      "title": "The Illusion of Depth"
+    },
+    {
+      "path": "/lesson-facades.html",
+      "title": "Reading a Facade"
+    },
+    {
+      "path": "/lesson-structure.html",
+      "title": "Structural Integrity"
+    },
+    {
+      "path": "/the-man.html",
+      "title": "The Man"
+    },
+    {
+      "path": "/founder.html",
+      "title": "The Founder"
+    },
+    {
+      "path": "/method.html",
+      "title": "The Method"
+    },
+    {
+      "path": "/technology.html",
+      "title": "Technology & Documentation"
+    },
+    {
+      "path": "/life.html",
+      "title": "The Life"
+    },
+    {
+      "path": "/partnerships.html",
+      "title": "Brand Partnerships"
+    },
+    {
+      "path": "/gallery.html",
+      "title": "Project Gallery"
+    },
+    {
+      "path": "/consultation.html",
+      "title": "Book a Consultation"
+    },
+    {
+      "path": "/contact.html",
+      "title": "Contact"
+    },
+    {
+      "path": "/premium.html",
+      "title": "Archive Access"
+    },
+    {
+      "path": "/about.html",
+      "title": "About Ambrosic"
+    },
+    {
+      "path": "/privacy.html",
+      "title": "Privacy Policy"
+    },
+    {
+      "path": "/cookies.html",
+      "title": "Cookies"
+    },
+    {
+      "path": "/terms.html",
+      "title": "Terms of Use"
+    },
+    {
+      "path": "/hilltopads.html",
+      "title": "HilltopAds Verification"
+    },
+    {
+      "path": "/sitemap.html",
+      "title": "Site Map"
+    }
+  ]
+}
